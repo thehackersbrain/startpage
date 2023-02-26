@@ -30,20 +30,20 @@ export const links: linkGroup[] = [
     title: "Reddit",
     links: [
       {
-        label: "r/startpages",
-        value: "https://www.reddit.com/r/startpages/",
+        label: "r/hackthebox",
+        value: "https://www.reddit.com/r/hackthebox/",
+      },
+      {
+        label: "r/hackthebox",
+        value: "https://www.reddit.com/r/rainmeter/",
       },
       {
         label: "r/unixporn",
         value: "https://www.reddit.com/r/unixporn/",
       },
       {
-        label: "r/rainmeter",
-        value: "https://www.reddit.com/r/rainmeter/",
-      },
-      {
-        label: "r/AnimalsBeingDerps",
-        value: "https://www.reddit.com/r/AnimalsBeingDerps/",
+        label: "r/battlestations",
+        value: "https://www.reddit.com/r/battlestations/",
       },
     ],
   },
